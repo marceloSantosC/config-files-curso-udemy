@@ -1,0 +1,3 @@
+greeting-service:
+  greeting: "HI"
+  default-value: "WORLD"
